@@ -1,0 +1,3 @@
+module slice_vs_iterator_in_go_mem_usage_comparison
+
+go 1.23rc1
